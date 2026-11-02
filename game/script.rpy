@@ -7,7 +7,7 @@ label start:
     show Alexander happy
 
     e "Esta es la primera muestra de The Suckstance"
-    e "Será interesante la muestra final?"
+    e "Será interesante el juego final?"
     e "Lo veremos en próximos meses."
     
     return
