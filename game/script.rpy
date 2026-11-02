@@ -1,13 +1,14 @@
-﻿define e = Character("Eileen")
+﻿define e = Character("Alexander")
 
 label start:
 
     scene bg room
 
-    show eileen happy
+    show Alexander happy
 
     e "Esta es la primera muestra de The Suckstance"
     e "Será interesante la muestra final?"
     e "Lo veremos en próximos meses."
     
     return
+
